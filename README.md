@@ -5,17 +5,17 @@ I believe it is of vital importance to read to keep upto date with the latest te
 Below is a list of the sources I find useful and hopefully people who come across the is resource will find them equally as useful.
 
 ## Books
-The Goal
-The Pheonix Project
-How to win friends and influence people in the digital age
-The One Thing
-The Chimp Paradox
-Don't make me think
-Javascript: the good parts
-Pragmatic Programmer
-Growing Object Orientated Systems
-Get Programming with F#
-Head First Design Patterns
+The Goal</br>
+The Pheonix Project</br>
+How to win friends and influence people in the digital age</br>
+The One Thing</br>
+The Chimp Paradox</br>
+Don't make me think</br>
+Javascript: the good parts</br>
+Pragmatic Programmer</br>
+Growing Object Orientated Systems</br>
+Get Programming with F#</br>
+Head First Design Patterns</br>
 Joel on software
 
 ## Blogs
